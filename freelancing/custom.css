@@ -18,8 +18,8 @@ small {
 
 /* Header */
 .hero {
-  background-color: #394046;
   background-image: url("img/deviantArtBanner2.jpg");
+  background-color: #394046;
   background-position: center;
   background-size: cover;
 }
